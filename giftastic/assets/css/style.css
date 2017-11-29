@@ -1,0 +1,10 @@
+.sport {
+	background-color: lightblue;
+}
+
+#sport-form {
+	float: right;
+	margin-right: 50px;
+	text-align: right;
+	padding: 10px;
+}
